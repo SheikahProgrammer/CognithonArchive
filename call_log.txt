@@ -1,0 +1,3662 @@
+
+
+     Time : 14:42:35     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 39.35       | 69.65          | 7.25        | 12.43   | 81.83    | 1084.76  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration RPM 
+
+
+     Time : 14:42:37     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 29.73       | 47.11          | 6.1        | 11.79   | 53.63    | 968.26  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Flow 
+
+
+     Time : 14:42:39     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 39.76       | 77.82          | 6.35        | 11.59   | 36.36    | 1031.25  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 14:42:41     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 34.02       | 66.52          | 6.32        | 14.88   | 24.21    | 1033.14  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 14:42:43     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.6       | 73.68          | 7.03        | 11.35   | 87.49    | 1075.26  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration Flow RPM 
+
+
+     Time : 14:42:45     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.6       | 71.16          | 3.86        | 12.44   | 46.71    | 1095.29  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration RPM 
+
+
+     Time : 14:42:47     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 31.88       | 64.04          | 3.91        | 13.29   | 31.56    | 938.43  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration 
+
+
+     Time : 14:42:49     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.86       | 61.1          | 4.1        | 12.6   | 57.03    | 945.24  |
+
+
+         
+     
+
+
+
+    Machine is likely to **WORK**.
+
+
+     Time : 14:42:51     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 34.0       | 57.58          | 5.34        | 13.42   | 30.43    | 972.19  |
+
+
+         
+     
+
+
+
+    Machine is likely to **WORK**.
+
+
+     Time : 14:42:53     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 28.15       | 48.12          | 5.37        | 14.35   | 66.61    | 981.8  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Flow 
+
+
+     Time : 14:42:55     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 30.98       | 84.07          | 5.96        | 14.6   | 31.91    | 1084.05  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Flow RPM 
+
+
+     Time : 14:42:57     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 41.42       | 64.24          | 5.31        | 11.85   | 93.84    | 916.46  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow Level 
+
+
+     Time : 14:42:59     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 27.05       | 71.57          | 5.56        | 10.94   | 77.81    | 1067.22  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow RPM 
+
+
+     Time : 14:43:01     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 40.56       | 54.46          | 6.97        | 14.42   | 25.35    | 1034.51  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Vibration Flow RPM 
+
+
+     Time : 14:43:03     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.83       | 67.84          | 6.3        | 13.46   | 32.16    | 969.03  |
+
+
+         
+     
+
+
+
+    Machine is likely to **WORK**.
+
+
+     Time : 14:43:05     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 42.36       | 73.4          | 4.65        | 14.67   | 98.91    | 1055.09  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow Level RPM 
+
+
+     Time : 14:43:07     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 40.98       | 89.37          | 5.6        | 11.38   | 78.27    | 997.28  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Flow 
+
+
+     Time : 14:43:09     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 39.39       | 50.07          | 5.87        | 11.34   | 42.72    | 1060.55  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 14:43:12     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.42       | 62.91          | 7.03        | 11.06   | 51.42    | 960.66  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration Flow 
+
+
+     Time : 14:43:14     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 27.03       | 48.71          | 4.01        | 12.45   | 32.69    | 1041.46  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature RPM 
+
+
+     Time : 14:43:16     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 43.34       | 54.32          | 6.83        | 14.95   | 53.44    | 917.98  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Vibration Flow 
+
+
+     Time : 14:43:18     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.39       | 60.58          | 5.55        | 13.92   | 38.65    | 986.65  |
+
+
+         
+     
+
+
+
+    Machine is likely to **WORK**.
+
+
+     Time : 14:43:20     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 30.07       | 72.98          | 5.84        | 14.1   | 86.02    | 1056.29  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 14:43:22     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.2       | 50.61          | 5.69        | 12.39   | 39.5    | 1042.61  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 14:43:24     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 41.22       | 69.33          | 5.0        | 12.4   | 37.74    | 943.1  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure 
+
+     Time : 14:45:14     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.38       | 58.65          | 7.08        | 12.64   | 26.28    | 915.75  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration 
+
+
+     Time : 14:45:16     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 38.05       | 67.64          | 3.62        | 12.11   | 60.64    | 952.76  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration 
+
+
+     Time : 14:45:18     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.3       | 48.2          | 7.22        | 11.43   | 47.26    | 1012.87  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration Flow RPM 
+
+
+     Time : 14:45:20     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.2       | 74.05          | 5.54        | 14.53   | 21.66    | 1026.2  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 14:45:22     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 41.65       | 75.4          | 7.05        | 14.31   | 43.7    | 970.54  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Vibration Flow 
+
+
+     Time : 14:45:24     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.11       | 75.63          | 5.58        | 12.36   | 25.99    | 1056.89  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 14:45:26     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 27.2       | 79.76          | 6.58        | 12.93   | 45.03    | 969.21  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Vibration 
+
+
+     Time : 14:45:28     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.56       | 86.83          | 6.11        | 13.19   | 74.65    | 925.02  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature 
+
+
+     Time : 14:45:30     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 40.11       | 66.92          | 5.96        | 13.96   | 72.34    | 1098.31  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure RPM 
+
+
+     Time : 14:45:32     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.75       | 65.81          | 6.96        | 13.02   | 91.8    | 1084.95  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration Level RPM 
+
+
+     Time : 14:45:34     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 44.19       | 68.32          | 5.96        | 11.64   | 42.58    | 1069.16  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow RPM 
+
+
+     Time : 14:45:36     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.43       | 83.46          | 5.26        | 12.96   | 83.51    | 915.88  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature 
+
+
+     Time : 14:45:38     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 38.24       | 88.67          | 6.71        | 13.37   | 45.6    | 956.45  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration 
+
+
+     Time : 14:45:40     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 41.44       | 81.92          | 6.71        | 13.45   | 71.3    | 934.8  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Vibration 
+
+
+     Time : 14:45:42     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.69       | 83.06          | 6.82        | 10.92   | 69.07    | 1053.21  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration Flow RPM 
+
+
+     Time : 14:45:44     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.82       | 62.61          | 4.32        | 11.19   | 40.02    | 1022.85  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 14:45:46     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 27.97       | 46.69          | 5.35        | 13.86   | 89.22    | 949.93  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature 
+
+
+     Time : 14:45:48     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.15       | 49.27          | 3.82        | 13.26   | 30.86    | 950.06  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration 
+
+
+     Time : 14:45:50     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 27.0       | 57.59          | 4.56        | 14.46   | 63.8    | 1055.91  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow RPM 
+
+
+     Time : 14:45:52     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 29.16       | 88.72          | 6.53        | 13.29   | 66.58    | 1039.04  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Vibration RPM 
+
+
+     Time : 14:45:54     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.46       | 63.79          | 4.29        | 12.14   | 31.78    | 1006.83  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 14:45:56     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 44.12       | 74.46          | 3.8        | 11.33   | 79.95    | 963.14  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Vibration Flow 
+
+
+     Time : 14:45:58     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.49       | 87.28          | 4.28        | 13.97   | 56.49    | 1087.36  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature RPM 
+
+
+     Time : 14:46:00     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.93       | 89.05          | 4.0        | 14.98   | 33.39    | 957.38  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration Flow 
+
+
+     Time : 14:46:02     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.21       | 70.06          | 5.7        | 14.92   | 76.52    | 981.31  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow 
+
+
+     Time : 14:46:04     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 27.61       | 81.55          | 6.7        | 13.78   | 63.13    | 1066.09  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Vibration RPM 
+
+
+     Time : 14:46:06     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 43.91       | 63.08          | 4.92        | 11.6   | 50.65    | 990.54  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow 
+
+
+     Time : 14:46:08     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.73       | 70.91          | 5.21        | 14.93   | 51.56    | 1002.3  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 14:46:10     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.3       | 71.1          | 6.84        | 13.87   | 78.72    | 921.25  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration 
+
+
+     Time : 14:46:12     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 31.27       | 77.05          | 4.49        | 13.84   | 63.62    | 910.71  |
+
+
+         
+     
+
+
+
+    Machine is likely to **WORK**.
+
+
+     Time : 14:46:14     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 40.17       | 59.33          | 4.25        | 11.97   | 34.53    | 953.23  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow 
+
+
+     Time : 14:46:16     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.32       | 89.18          | 5.86        | 13.11   | 45.38    | 1037.35  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature RPM 
+
+
+     Time : 14:46:18     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 39.72       | 68.67          | 4.42        | 11.78   | 81.04    | 954.81  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow 
+
+
+     Time : 14:46:20     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 34.81       | 76.0          | 5.45        | 12.1   | 52.8    | 1025.33  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 14:46:22     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 29.22       | 60.81          | 4.05        | 14.17   | 99.99    | 1046.42  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow Level RPM 
+
+
+     Time : 14:46:24     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 39.15       | 60.35          | 6.77        | 13.48   | 64.9    | 969.16  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration 
+
+
+     Time : 14:46:26     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 40.28       | 48.49          | 4.64        | 14.9   | 42.79    | 917.66  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Flow 
+
+
+     Time : 14:46:28     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.36       | 81.38          | 6.08        | 12.17   | 68.15    | 946.1  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature 
+
+
+     Time : 14:46:30     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 44.78       | 88.44          | 5.05        | 13.07   | 71.29    | 1082.49  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature RPM 
+
+
+     Time : 14:46:32     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 43.43       | 51.4          | 5.0        | 14.21   | 77.26    | 938.47  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow 
+
+
+     Time : 14:46:34     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.45       | 59.44          | 4.61        | 13.73   | 43.29    | 1008.97  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 14:46:36     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 44.49       | 61.13          | 7.12        | 13.74   | 95.23    | 1071.43  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Vibration Level RPM 
+
+
+     Time : 14:46:38     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 40.06       | 67.75          | 5.86        | 12.99   | 47.69    | 1062.44  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure RPM 
+
+
+     Time : 14:46:40     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 27.95       | 67.35          | 6.05        | 13.84   | 76.7    | 1003.18  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure RPM 
+
+
+     Time : 14:46:42     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 39.54       | 86.13          | 6.34        | 13.24   | 48.19    | 928.42  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature 
+
+
+     Time : 14:46:44     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 41.53       | 60.51          | 4.79        | 11.34   | 91.99    | 1060.73  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow Level RPM 
+
+
+     Time : 14:46:46     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 40.16       | 68.63          | 5.11        | 13.29   | 37.92    | 935.18  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure 
+
+
+     Time : 14:46:48     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 43.7       | 47.84          | 5.95        | 14.23   | 45.32    | 1031.39  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Flow RPM 
+
+
+     Time : 14:46:50     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.8       | 87.3          | 3.92        | 13.11   | 21.21    | 923.23  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration 
+
+
+     Time : 14:46:52     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.86       | 48.76          | 5.49        | 13.7   | 27.51    | 1002.07  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature RPM 
+
+
+     Time : 14:46:54     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 42.6       | 65.88          | 4.27        | 12.81   | 56.56    | 1013.91  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure RPM 
+
+
+     Time : 14:46:56     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.72       | 88.1          | 4.75        | 14.65   | 68.83    | 1043.78  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Flow RPM 
+
+
+     Time : 14:46:58     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.08       | 88.04          | 6.43        | 13.65   | 93.62    | 972.18  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Level 
+
+
+     Time : 14:47:00     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 31.36       | 47.57          | 4.75        | 11.25   | 44.09    | 1018.69  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Flow RPM 
+
+
+     Time : 14:47:02     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.83       | 89.85          | 5.36        | 11.37   | 98.24    | 1022.38  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Flow Level RPM 
+
+
+     Time : 14:47:04     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.52       | 54.97          | 6.02        | 12.29   | 46.68    | 1002.21  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 14:47:06     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 42.4       | 49.81          | 5.0        | 13.22   | 51.39    | 904.47  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature 
+
+
+     Time : 14:47:08     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 43.89       | 85.32          | 3.67        | 13.0   | 80.9    | 908.34  |
+
+
+         
+     
+
+
+
+    Machine is likely to **WORK**.
+
+
+     Time : 14:47:11     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.8       | 75.36          | 4.79        | 11.41   | 59.72    | 907.93  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow 
+
+
+     Time : 14:47:13     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 28.06       | 70.12          | 3.87        | 11.43   | 76.05    | 973.49  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Vibration Flow 
+
+
+     Time : 14:47:15     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 38.56       | 58.18          | 5.2        | 11.94   | 94.68    | 1035.36  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow Level RPM 
+
+
+     Time : 14:47:17     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.27       | 54.53          | 5.51        | 13.6   | 31.63    | 1033.5  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 14:47:19     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 41.67       | 82.13          | 5.88        | 12.13   | 90.83    | 974.57  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Level 
+
+
+     Time : 14:47:21     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 34.97       | 64.42          | 6.98        | 10.97   | 87.21    | 1063.72  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration Flow RPM 
+
+
+     Time : 14:47:23     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.52       | 82.38          | 3.68        | 13.03   | 61.43    | 1043.77  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration RPM 
+
+
+     Time : 14:47:25     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 29.08       | 73.95          | 4.78        | 13.41   | 39.0    | 1051.09  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure RPM 
+
+
+     Time : 14:47:27     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.53       | 66.95          | 6.47        | 11.59   | 55.24    | 1043.74  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 14:47:29     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.0       | 78.87          | 6.69        | 10.83   | 82.69    | 941.93  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration Flow 
+
+
+     Time : 14:47:31     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 27.15       | 69.71          | 5.85        | 14.57   | 60.08    | 1088.11  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow RPM 
+
+
+     Time : 14:47:33     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 40.54       | 53.35          | 5.28        | 13.78   | 93.73    | 1085.3  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Level RPM 
+
+
+     Time : 14:47:35     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 29.85       | 73.28          | 3.79        | 11.71   | 70.21    | 936.98  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Vibration Flow 
+
+
+     Time : 14:47:37     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 42.52       | 55.76          | 5.55        | 12.9   | 83.12    | 1071.57  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure RPM 
+
+
+     Time : 14:47:39     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.5       | 53.27          | 4.71        | 13.33   | 26.68    | 941.53  |
+
+
+         
+     
+
+
+
+    Machine is likely to **WORK**.
+
+
+     Time : 14:43:26     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 34.32       | 66.24          | 6.49        | 13.98   | 19.15    | 1069.39  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Level RPM 
+
+
+     Time : 14:43:28     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 30.51       | 52.52          | 4.37        | 12.62   | 27.76    | 1055.56  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 14:43:30     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 39.36       | 65.02          | 7.09        | 14.39   | 56.51    | 958.79  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration Flow 
+
+
+     Time : 14:43:32     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.43       | 57.76          | 4.4        | 14.54   | 97.99    | 958.25  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow Level 
+
+
+     Time : 15:28:27     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 38.92       | 46.96          | 6.91        | 14.29   | 36.29    | 1035.3  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration Flow RPM 
+
+
+     Time : 15:28:29     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.05       | 47.84          | 4.88        | 13.54   | 95.48    | 1069.81  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Level RPM 
+
+
+     Time : 15:28:31     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 30.77       | 62.9          | 4.69        | 13.73   | 44.21    | 1061.95  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 15:28:33     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.66       | 70.69          | 5.6        | 12.29   | 38.89    | 1023.71  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 15:28:35     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 43.47       | 59.5          | 5.97        | 11.53   | 31.99    | 983.02  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow 
+
+
+     Time : 15:28:37     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 31.01       | 89.86          | 5.73        | 14.37   | 34.05    | 1000.66  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Flow RPM 
+
+
+     Time : 15:28:39     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.6       | 59.23          | 5.58        | 12.25   | 27.13    | 1026.32  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 15:28:41     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 41.62       | 85.58          | 5.53        | 11.54   | 86.64    | 1004.68  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Flow RPM 
+
+
+     Time : 15:28:43     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 44.98       | 47.68          | 5.99        | 12.19   | 62.49    | 946.38  |
+
+
+         
+     
+
+
+
+    Machine is likely to **WORK**.
+
+
+     Time : 15:28:45     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 31.57       | 56.56          | 3.86        | 12.42   | 23.44    | 1039.44  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration RPM 
+
+
+     Time : 15:28:47     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 38.93       | 57.32          | 6.78        | 14.78   | 46.54    | 1006.04  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration Flow RPM 
+
+
+     Time : 15:28:49     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 44.78       | 47.57          | 7.19        | 14.96   | 43.58    | 1082.09  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Vibration Flow RPM 
+
+
+     Time : 15:28:51     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 28.68       | 49.81          | 5.18        | 14.26   | 29.51    | 965.84  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Flow 
+
+
+     Time : 15:28:53     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 44.01       | 71.63          | 5.39        | 12.3   | 55.58    | 1051.14  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure RPM 
+
+
+     Time : 15:28:55     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.33       | 49.37          | 3.92        | 13.66   | 65.22    | 1084.46  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration RPM 
+
+
+     Time : 15:28:57     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.69       | 89.15          | 3.81        | 11.78   | 88.06    | 1097.91  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration Flow RPM 
+
+
+     Time : 15:28:59     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 41.12       | 79.99          | 4.39        | 13.36   | 40.41    | 948.16  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature 
+
+
+     Time : 15:29:01     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 40.58       | 74.31          | 5.31        | 12.47   | 39.66    | 1005.42  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure RPM 
+
+
+     Time : 15:29:03     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 28.41       | 54.24          | 5.8        | 14.6   | 66.54    | 974.54  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow 
+
+
+     Time : 15:29:05     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 29.27       | 47.61          | 5.99        | 11.49   | 80.49    | 1076.13  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Flow RPM 
+
+
+     Time : 15:29:07     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.2       | 54.77          | 6.38        | 10.97   | 73.04    | 982.89  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow 
+
+
+     Time : 15:29:09     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.53       | 72.7          | 7.12        | 14.23   | 41.03    | 1055.61  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration Flow RPM 
+
+
+     Time : 15:29:11     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.51       | 89.16          | 5.53        | 12.91   | 53.94    | 1067.72  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature RPM 
+
+
+     Time : 15:29:13     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 31.45       | 76.59          | 3.81        | 11.63   | 60.66    | 966.15  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration Flow 
+
+
+     Time : 15:29:15     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.47       | 76.59          | 5.28        | 14.64   | 25.91    | 971.54  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow 
+
+
+     Time : 15:29:18     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 27.87       | 76.58          | 4.58        | 12.63   | 99.05    | 1035.07  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Level RPM 
+
+
+     Time : 15:29:20     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 38.8       | 51.07          | 6.09        | 13.87   | 83.52    | 1054.64  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 15:29:22     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 34.57       | 77.53          | 5.46        | 14.48   | 34.29    | 1047.39  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 15:29:24     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.12       | 71.31          | 5.93        | 11.87   | 91.25    | 993.22  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow Level 
+
+
+     Time : 15:29:26     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 34.48       | 63.17          | 3.66        | 13.94   | 73.48    | 1066.08  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration RPM 
+
+
+     Time : 15:29:28     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 39.92       | 89.94          | 5.51        | 11.65   | 18.99    | 1043.81  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Flow Level RPM 
+
+
+     Time : 15:29:30     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 42.93       | 47.32          | 6.76        | 12.63   | 26.22    | 903.42  |
+
+
+         
+     
+
+
+
+    Machine is likely to **WORK**.
+
+
+     Time : 15:29:32     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 30.85       | 78.09          | 7.08        | 11.17   | 55.11    | 927.94  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration Flow 
+
+
+     Time : 15:29:34     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.75       | 88.25          | 3.72        | 13.65   | 43.54    | 952.92  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration 
+
+
+     Time : 15:29:36     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 38.83       | 83.64          | 7.13        | 12.28   | 79.45    | 912.91  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration 
+
+
+     Time : 15:29:38     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 44.0       | 80.14          | 5.03        | 11.78   | 69.89    | 916.52  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Flow 
+
+
+     Time : 15:29:40     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 34.98       | 76.47          | 6.38        | 14.66   | 33.74    | 1000.09  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 15:29:42     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 30.88       | 63.18          | 7.19        | 14.79   | 45.54    | 903.0  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration Flow 
+
+
+     Time : 15:29:44     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 30.61       | 89.13          | 4.77        | 13.71   | 98.49    | 968.69  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Level 
+
+
+     Time : 15:29:46     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 29.64       | 71.71          | 4.33        | 12.58   | 99.28    | 1081.71  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Level RPM 
+
+
+     Time : 15:29:48     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.42       | 58.3          | 7.21        | 14.31   | 85.77    | 922.51  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration Flow 
+
+
+     Time : 15:29:50     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 27.63       | 87.63          | 4.63        | 11.84   | 24.48    | 910.32  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Flow 
+
+
+     Time : 15:29:52     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 27.37       | 77.52          | 5.67        | 11.89   | 56.09    | 939.89  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow 
+
+
+     Time : 15:29:54     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 29.26       | 45.82          | 4.95        | 13.6   | 69.72    | 1050.28  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature RPM 
+
+
+     Time : 15:29:56     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 38.06       | 54.08          | 5.67        | 14.07   | 60.45    | 1021.44  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 15:29:58     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 39.06       | 49.93          | 3.79        | 13.87   | 30.87    | 989.64  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration 
+
+
+     Time : 15:30:00     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.59       | 85.02          | 6.6        | 11.58   | 97.54    | 944.48  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration Flow Level 
+
+
+     Time : 15:30:02     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.79       | 70.71          | 5.98        | 14.66   | 68.34    | 916.74  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow 
+
+     Time : 15:11:39     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 38.99       | 80.87          | 7.14        | 11.19   | 84.03    | 1058.36  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration Flow RPM 
+
+
+     Time : 15:11:41     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 42.98       | 80.62          | 4.74        | 14.43   | 30.65    | 979.95  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Flow 
+
+
+     Time : 15:11:43     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.35       | 56.84          | 6.65        | 14.33   | 53.31    | 1014.4  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration Flow RPM 
+
+
+     Time : 15:11:45     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.38       | 61.38          | 4.47        | 12.86   | 42.07    | 1006.67  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 15:11:47     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.6       | 45.12          | 3.83        | 13.01   | 89.4    | 958.19  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration 
+
+
+     Time : 15:11:49     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.29       | 58.59          | 6.17        | 12.18   | 29.43    | 1043.18  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 15:11:51     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 41.62       | 59.01          | 5.64        | 12.78   | 66.53    | 981.88  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure 
+
+
+     Time : 15:32:09     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.97       | 53.18          | 5.03        | 11.01   | 86.56    | 919.01  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow 
+
+
+     Time : 15:32:11     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 29.1       | 78.22          | 4.29        | 14.51   | 58.82    | 909.05  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow 
+
+
+     Time : 15:32:13     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 28.54       | 59.73          | 6.46        | 14.68   | 47.67    | 968.91  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow 
+
+
+     Time : 15:32:15     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 38.78       | 45.71          | 4.83        | 14.51   | 20.25    | 994.81  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Flow 
+
+
+     Time : 15:32:17     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.02       | 52.61          | 5.15        | 14.07   | 61.79    | 1013.38  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 15:32:19     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.68       | 84.71          | 4.21        | 14.25   | 91.88    | 1056.47  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Flow Level RPM 
+
+
+     Time : 15:32:21     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.62       | 61.45          | 5.48        | 12.59   | 18.02    | 1062.44  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Level RPM 
+
+
+     Time : 15:32:23     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 31.74       | 81.33          | 7.22        | 13.36   | 66.9    | 1055.38  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration RPM 
+
+
+     Time : 15:32:25     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 38.4       | 81.0          | 6.19        | 11.49   | 27.59    | 907.06  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Flow 
+
+
+     Time : 15:32:27     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 42.87       | 85.94          | 5.65        | 11.93   | 55.32    | 1020.4  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Flow RPM 
+
+
+     Time : 15:32:29     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 28.01       | 61.42          | 5.15        | 13.39   | 81.63    | 1099.82  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure RPM 
+
+
+     Time : 15:32:31     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 38.78       | 55.92          | 6.48        | 14.62   | 25.37    | 925.46  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow 
+
+
+     Time : 15:32:33     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.59       | 84.46          | 4.29        | 12.11   | 92.04    | 934.07  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Level 
+
+
+     Time : 15:32:35     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 31.6       | 61.5          | 6.43        | 12.25   | 66.11    | 1061.74  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 15:32:37     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.68       | 87.27          | 4.34        | 14.78   | 28.83    | 918.92  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Flow 
+
+
+     Time : 15:32:39     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 29.17       | 60.21          | 6.8        | 14.69   | 35.34    | 1064.53  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Vibration Flow RPM 
+
+
+     Time : 15:32:41     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 39.97       | 47.8          | 6.87        | 11.88   | 84.8    | 969.75  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration Flow 
+
+
+     Time : 15:32:43     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 43.07       | 85.24          | 5.22        | 13.38   | 97.19    | 903.28  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Level 
+
+
+     Time : 15:32:45     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 42.94       | 70.27          | 4.61        | 13.99   | 84.85    | 938.72  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure 
+
+
+     Time : 15:32:47     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.15       | 79.58          | 6.56        | 12.91   | 20.77    | 1094.4  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration RPM 
+
+
+     Time : 15:32:49     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 31.32       | 86.51          | 5.32        | 13.06   | 88.39    | 904.85  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature 
+
+
+     Time : 15:32:51     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.73       | 64.73          | 6.26        | 11.18   | 23.6    | 1039.75  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 15:32:53     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.34       | 51.49          | 4.23        | 14.58   | 32.14    | 1088.18  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 15:32:55     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.16       | 64.72          | 4.95        | 12.59   | 90.16    | 1090.42  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Level RPM 
+
+
+     Time : 15:32:57     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 40.14       | 64.25          | 6.65        | 14.64   | 57.29    | 996.61  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Vibration Flow 
+
+
+     Time : 15:32:59     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 44.81       | 58.48          | 3.92        | 12.49   | 21.19    | 1035.38  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Vibration Level RPM 
+
+
+     Time : 15:33:01     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.86       | 56.07          | 6.34        | 10.84   | 24.21    | 1095.0  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 15:33:03     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 28.06       | 54.61          | 5.35        | 14.3   | 37.98    | 953.76  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow 
+
+
+     Time : 15:33:05     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 42.65       | 81.34          | 3.61        | 11.25   | 49.59    | 1087.47  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Vibration Flow RPM 
+
+
+     Time : 15:33:07     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.65       | 88.75          | 6.76        | 12.09   | 67.68    | 983.68  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Vibration 
+
+
+     Time : 15:33:09     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 31.45       | 59.83          | 6.94        | 13.34   | 38.06    | 980.91  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration 
+
+
+     Time : 15:33:11     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 35.9       | 54.0          | 6.66        | 12.89   | 49.8    | 1037.76  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration RPM 
+
+
+     Time : 15:33:13     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 27.63       | 52.09          | 4.54        | 12.82   | 82.31    | 1088.2  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure RPM 
+
+
+     Time : 15:33:15     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 39.7       | 84.47          | 4.11        | 11.41   | 59.92    | 925.85  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Flow 
+
+
+     Time : 15:33:17     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 28.75       | 75.24          | 4.15        | 14.39   | 54.11    | 919.46  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow 
+
+
+     Time : 15:33:19     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 43.53       | 45.34          | 7.2        | 14.08   | 58.99    | 928.04  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Vibration Flow 
+
+
+     Time : 15:33:21     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 42.33       | 83.96          | 6.34        | 13.2   | 19.63    | 1002.23  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Level RPM 
+
+
+     Time : 15:33:23     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.57       | 56.11          | 5.1        | 13.92   | 58.92    | 1015.27  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 15:33:25     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 27.45       | 51.45          | 4.37        | 12.07   | 59.64    | 1073.52  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure RPM 
+
+
+     Time : 15:33:27     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 28.13       | 60.54          | 7.1        | 14.18   | 87.09    | 1075.55  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Vibration Flow RPM 
+
+
+     Time : 15:33:29     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 43.43       | 68.69          | 6.47        | 13.1   | 86.54    | 966.74  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure 
+
+
+     Time : 15:33:31     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 31.29       | 57.32          | 6.12        | 13.11   | 94.27    | 980.89  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Level 
+
+
+     Time : 15:33:33     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.24       | 61.66          | 4.89        | 13.96   | 62.1    | 971.72  |
+
+
+         
+     
+
+
+
+    Machine is likely to **WORK**.
+
+
+     Time : 15:33:35     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.31       | 85.91          | 4.82        | 12.75   | 49.48    | 997.55  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature 
+
+
+     Time : 15:33:37     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 31.32       | 64.07          | 6.32        | 13.41   | 69.82    | 1040.67  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 15:33:39     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 38.06       | 53.25          | 4.9        | 14.65   | 39.55    | 929.79  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow 
+
+
+     Time : 15:33:41     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 44.39       | 88.4          | 6.87        | 11.22   | 25.14    | 982.16  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Vibration Flow 
+
+
+     Time : 15:33:43     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 44.66       | 57.36          | 5.99        | 11.84   | 63.51    | 1097.5  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow RPM 
+
+
+     Time : 15:33:45     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 43.31       | 46.78          | 7.0        | 11.76   | 25.67    | 1089.42  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Vibration Flow RPM 
+
+
+     Time : 15:33:47     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 29.67       | 72.53          | 5.56        | 14.38   | 89.93    | 1084.03  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow RPM 
+
+
+     Time : 15:33:49     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 42.0       | 69.92          | 6.2        | 10.83   | 51.84    | 938.84  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow 
+
+
+     Time : 15:33:51     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 42.89       | 80.31          | 3.82        | 14.75   | 60.04    | 1005.63  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Vibration Flow RPM 
+
+
+     Time : 15:33:53     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.55       | 70.91          | 6.11        | 12.48   | 97.77    | 1091.0  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Level RPM 
+
+
+     Time : 15:33:55     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.68       | 58.3          | 4.33        | 14.64   | 85.52    | 1032.05  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow RPM 
+
+
+     Time : 15:33:57     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.36       | 72.96          | 4.04        | 10.95   | 51.07    | 916.38  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow 
+
+
+     Time : 15:33:59     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.94       | 74.52          | 5.23        | 14.05   | 22.57    | 932.51  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Flow 
+
+
+     Time : 15:34:01     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 30.99       | 46.15          | 4.52        | 12.38   | 75.53    | 961.71  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature 
+
+
+     Time : 15:34:03     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 43.32       | 49.91          | 7.15        | 14.72   | 44.66    | 938.46  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Vibration Flow 
+
+
+     Time : 15:34:05     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 33.77       | 47.99          | 5.8        | 12.56   | 33.24    | 940.9  |
+
+
+         
+     
+
+
+
+    Machine is likely to **WORK**.
+
+
+     Time : 15:34:07     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 30.57       | 58.26          | 6.23        | 12.24   | 46.02    | 1091.21  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of RPM 
+
+
+     Time : 15:34:09     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 31.02       | 84.91          | 5.75        | 14.72   | 19.69    | 947.53  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Flow Level 
+
+
+     Time : 15:34:11     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 42.54       | 49.0          | 4.36        | 12.27   | 19.39    | 905.88  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Temperature Level 
+
+
+     Time : 15:34:13     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 43.15       | 62.21          | 4.27        | 13.09   | 57.57    | 955.44  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure 
+
+
+     Time : 15:34:15     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 37.98       | 80.63          | 4.54        | 14.21   | 73.86    | 974.43  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature Flow 
+
+
+     Time : 15:34:17     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 38.63       | 87.24          | 6.11        | 12.1   | 77.18    | 991.14  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature 
+
+
+     Time : 15:34:19     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 32.25       | 88.51          | 5.62        | 13.33   | 71.37    | 1045.65  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Temperature RPM 
+
+
+     Time : 15:34:21     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 36.8       | 62.66          | 6.77        | 13.25   | 40.05    | 947.5  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Vibration 
+
+
+     Time : 15:34:23     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 44.3       | 52.09          | 5.46        | 13.78   | 58.19    | 953.48  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure 
+
+
+     Time : 15:34:25     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 43.22       | 59.48          | 7.13        | 14.64   | 82.32    | 964.9  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Vibration Flow 
+
+
+     Time : 15:34:27     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 43.76       | 59.99          | 6.56        | 12.63   | 57.33    | 927.14  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Vibration 
+
+
+     Time : 15:34:29     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 29.54       | 51.46          | 4.39        | 14.08   | 84.91    | 1013.93  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow RPM 
+
+
+     Time : 15:34:31     
+    
+
+    | Pressure | Temperature | Vibration | Flow | Level | RPM |
+    |----------|-------------|-----------|------|-------|-----|
+    | 41.46       | 59.55          | 6.49        | 14.34   | 51.4    | 1087.36  |
+
+
+         
+     
+
+
+
+    Machine is likely to **FAIL** because of Pressure Flow RPM 
